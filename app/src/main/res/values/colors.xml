@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/ic_launcher_background</color>
+    <color name="purple_500">@color/ic_launcher_background</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#BA03DA</color>
+    <color name="teal_700">#C722E4</color>
+    <color name="black">@color/ic_launcher_foreground</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color1">#172573</color>
+    <color name="color2">#1F8ADF</color>
+    <color name="color3">#31B637</color>
+</resources>

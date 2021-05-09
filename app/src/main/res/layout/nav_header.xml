@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="13dp"
+    android:background="@color/white"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <ImageView
+        android:layout_width="333dp"
+        android:layout_height="114dp"
+        android:layout_gravity="center"
+        android:src="@drawable/razorwallpaper" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:text="Reebok Wallpapers"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:textColor="#6B4F9E"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:text="(V 1.1.0)"
+        android:textColor="@color/black"/>
+
+
+</LinearLayout>
